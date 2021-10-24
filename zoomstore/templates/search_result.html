@@ -1,0 +1,10 @@
+{% block content %}
+        {% if searched %}
+            <h1>Search results:you searched for {{ searched }} in the store</h1><br/>
+            {% for i in item %}
+                {{ item }}<br/>
+            {% endfor %}    
+        {% else %}     
+            <h1>Oops, you didn't search for any item</h1><br>
+        {% endif %}
+{% endblock content  %}
