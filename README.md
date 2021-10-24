@@ -25,7 +25,7 @@ git clone https://github.com/ReevesAk/1stzoomstore.git
 ```
 
 ## Run code on terminal
-```python manage.py runserver``` or ```python3 kinter.py``` depending on the version of python installed on your machine
+```python manage.py runserver``` or ```python3 manage.py runserver``` depending on the version of python installed on your machine
 Visit http://127.0.0.1:3030/zoomstore/store/ as the url for the webpage to search for products.
 
 
