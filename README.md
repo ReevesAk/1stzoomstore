@@ -16,13 +16,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
 ```bash
 Ubuntu
 pip3 install django
-
 ```bash
 
 ## Usage
 
 ```python
 git clone https://github.com/ReevesAk/1stzoomstore.git
+```
 
 ## Run code on terminal
 ```python manage.py runserver``` or ```python3 kinter.py``` depending on the version of python installed on your machine
